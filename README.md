@@ -1,39 +1,39 @@
 👋 Hi, I’m Ramprosad Gharami
 
-I’m a Full Stack Developer focused on building ERP and E-commerce systems using MERN stack, Odoo ERP, PostgreSQL, and MySQL. I enjoy working on real-time applications, secure payment integrations, and production bug fixing to deliver stable and scalable software.
+I’m a Full Stack Developer specializing in ERP and E-commerce systems, with hands-on experience using the MERN stack, Odoo ERP, PostgreSQL, and MySQL. I focus on building scalable, secure, and high-performance applications, with strong attention to real-time features, payment integrations, and production-level stability.
 
-🚀 What I work with
+🚀 Technical Expertise
 
 ERP Systems: Custom ERP (MERN + TypeScript), Odoo ERP
 
-Backend: Node.js, Express.js, REST APIs, JWT, RBAC
+Backend: Node.js, Express.js, REST APIs, JWT Authentication, RBAC
 
 Frontend: React.js, Next.js, Redux, Tailwind CSS
 
 Databases: PostgreSQL, MySQL, MongoDB, Prisma ORM
 
-Real-Time: Socket.io
+Real-Time Systems: Socket.io
 
-Payments: Paddle, UddoktaPay
+Payment Integrations: Paddle, UddoktaPay
 
 DevOps: Docker, Dockploy
 
-Focus Areas: Performance optimization, bug fixing, clean architecture
+Core Focus: Performance optimization, bug fixing, clean architecture
 
 🧠 Experience Highlights
 
-Building ERP platforms for enterprise workflows and internal operations
+Developed and maintained ERP platforms supporting enterprise workflows and internal operations
 
-Developing E-commerce applications with secure payments and real-time updates
+Built E-commerce applications with secure payment gateways and real-time user interactions
 
-Optimizing databases with millions of records for speed and reliability
+Optimized databases handling millions of records, improving performance and reliability
 
-Fixing production issues and improving system stability
+Resolved production issues and critical bugs, enhancing system stability and maintainability
 
-📫 Connect with me
+📫 Connect with Me
 
-LinkedIn: linkedin.com/in/ramprosad-gharami
+LinkedIn: https://linkedin.com/in/ramprosad-gharami
 
-Portfolio: ramprosad-portfolio.vercel.app
+Portfolio: https://ramprosad-portfolio.vercel.app
 
-⭐ I’m always learning and improving, and I enjoy solving real-world problems with code.
+⭐ I’m passionate about continuous learning and enjoy solving real-world problems through clean, efficient code.
